@@ -1,4 +1,4 @@
-package com.devops;
+package devops;
 
 /**
  * Hello world!
