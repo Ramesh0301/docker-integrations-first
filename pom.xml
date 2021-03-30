@@ -4,11 +4,11 @@
 
   <groupId>com.devops</groupId>
   <artifactId>docker-integration-jenkins-first</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <build>
+  <!-- <build>
     <finalName>docker-integration-jenkins-first</finalName>
-  </build>
+  </build> -->
 
   <name>docker-integration-jenkins-first</name>
   <url>http://maven.apache.org</url>
@@ -19,8 +19,8 @@
 
   <dependencies>
     <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
+      <groupId>testng</groupId>
+      <artifactId>testng</artifactId>
       <version>7.3.0</version>
       <scope>test</scope>
     </dependency>
