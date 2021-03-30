@@ -5,7 +5,7 @@
   <groupId>devops</groupId>
   <artifactId>docker-integration-jenkins-first</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <!-- <packaging>jar</packaging> -->
+  <packaging>jar</packaging>
   <!-- <build>
     <finalName>docker-integration-jenkins-first</finalName>
   </build> -->
